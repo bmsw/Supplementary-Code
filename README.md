@@ -1,2 +1,1 @@
-# Adapted-Code
 # Supplementary-Code
